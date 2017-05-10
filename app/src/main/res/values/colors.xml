@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Initial palette created here from https://www.materialpalette.com/amber/teal -->
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorPrimaryDark">#FFA000</color>
+    <color name="colorPrimaryLight">#FFECB3</color>
+    <color name="colorAccent">#009688</color>
+    <color name="textColorPrimary">#212121</color>
+    <color name="textColorSecondary">#727272</color>
+    <color name="textColorSecondaryAlpha">#88727272</color>
+    <color name="colorDivider">#B6B6B6</color>
+
+    <color name="colorPrimaryTransprency">#CCFFC107</color>
+
+
+    <!-- Colors for the text protection scrim -->
+    <color name="translucent_scrim_top">#82000000</color>
+    <color name="translucent_scrim_top_center">#28000000</color>
+    <color name="translucent_scrim_bottom">#82000000</color>
+    <color name="translucent_scrim_bottom_center">#28000000</color>
+
+    <!-- Other colors -->
+    <color name="lighGray">#f2f2f2</color>
+    <color name="red">#ff5252</color>
+    <color name="white">#ffffff</color>
+
+    <!-- Colors for the conversation page template -->
+    <color name="speechBubbleBackground1">#FFECB3</color>
+    <color name="speechBubbleBackground2">#B2DFDB</color>
+
+    <!-- Colors for video page template -->
+    <color name="videoBackground">#dd000000</color>
+
+    <!-- Colors for the image map branching points -->
+    <color name="imageMapLine">#FFFFFF</color>
+    <color name="imageMapFillSelected">#77FFECB3</color>
+    <color name="imageMapFillVisited">#88000000</color>
+
+
+    <color name="btn_text_image_toggle">#727272</color>
+    <color name="btn_text_image_toggle_bg">#B2DFDB</color>
+
+    <!-- Colors for the Presntation Activity -->
+    <color name="colorPresentationToolbar">@color/colorPrimary</color>
+    <color name="colorPresentationToolbarTransparency">@color/colorPrimaryTransprency</color>
+    <color name="colorPresentationControlButtons">#ffffff</color>
+    <color name="colorPresentationControlButtonsTransparency">#CCffffff</color>
+
+    <color name="quiz_wrong_answer">#44ff5252</color>
+    <color name="quiz_correct_answer">#4443a047</color>
+    <color name="black_overlay">#66000000</color>
+
+</resources>

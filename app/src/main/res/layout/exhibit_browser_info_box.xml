@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/bubble_bottom">
+
+    <TextView
+        android:id="@+id/exhibit_browser_bubble_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxWidth="200dp"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_size_large"
+        android:textStyle="bold"
+        tools:text="The title"/>
+
+    <TextView
+        android:id="@+id/exhibit_browser_bubble_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxWidth="200dp"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_size_medium"
+        tools:text="This is a sample test to see how this goesdfdf df adf adf adf adf adf adf adf adf adf adf adf a dfankfnadkfadfadf" />
+
+</LinearLayout>

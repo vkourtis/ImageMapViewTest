@@ -29,7 +29,7 @@ dependencies {
     testCompile 'junit:junit:4.12'
 
     compile 'com.github.bumptech.glide:glide:3.7.0'
-    compile 'com.qozix:tileview:2.2.6'
+    compile 'com.qozix:tileview:2.2.8'
     compile 'com.github.flipagram:android-assetcopier:0.1.1'
 
 }

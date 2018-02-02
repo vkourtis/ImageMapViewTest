@@ -93,7 +93,7 @@ public class ImageMapView extends TileView {
         // Set the size of the tileview
         this.setSize(mImage.getWidth(), mImage.getHeight());
         // and use a single tile
-        this.addDetailLevel(1f, mImage, mImage.getTileWidth(), mImage.getTileHeight());
+        this.addDetailLevel(1f, mImage, mImage.getTileWidth() + 1, mImage.getTileHeight() + 1);
 
         // set mScale to 0, but keep scaleToFit true, so it'll be as small as possible but still match the container
         this.setScale(0);
